@@ -1,6 +1,7 @@
 # Neural Network Charity Analysis
 #### Code
-
+![Alphabet Soup Charity](AlphabetSoupCharity.ipynb)\
+![Alphabet Soup Charity - Optimization](AlphabetSoupCharity_Optimization.ipynb)
 ## Overview
 Our goal is to predict whether or not applicants will be succeful if they are funded by Alphabet Soup. We are starting with a CSV file with more than 34,000 orgnizations. First, we will bin certain columns in the data and then run a deep learning model to determine whether an applicant will be successful if they are funded by the company. Our goal is to have a model that has at least a 75% accuracy.
 ## Results
